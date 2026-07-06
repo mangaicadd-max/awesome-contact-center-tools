@@ -12,6 +12,7 @@ A curated list of the best tools for cloud contact centers, call centers, and cu
 
 * [Yellow.ai](https://yellow.ai/) – Conversational AI
 * [Observe.AI](https://www.observe.ai/) – Call intelligence
+* [Hermes](https://buildwithhermes.com) – Operating platform for AI voice agencies: white-label phone agents with built-in CRM, campaigns, and billing, from $149/mo
 
 ## Collections & Debt Management
 
