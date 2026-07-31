@@ -12,6 +12,7 @@ A curated list of the best tools for cloud contact centers, call centers, and cu
 
 * [Yellow.ai](https://yellow.ai/) – Conversational AI
 * [Observe.AI](https://www.observe.ai/) – Call intelligence
+* [Workforce Wave](https://www.workforcewave.com/) – AI voice receptionist for 24/7 call answering, appointment booking, and lead capture
 
 ## Collections & Debt Management
 
